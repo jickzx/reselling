@@ -1,0 +1,49 @@
+/* Place your CSS styles in this file */
+
+@font-face {
+  font-family:'DestinySubtext';
+  src: url(Fonts/SFMono-Medium-Italic.ttf);
+}
+
+@font-face {
+  font-family:'DestinyText';
+  src: url(Fonts/NHaasGroteskDSPro-65Md.otf);
+}
+
+.subtext {
+  font-family:'DestinySubtext';
+
+}
+
+.text {
+  font-family:'DestinyText';
+
+}
+
+body  {
+  color: #e8e8e8;
+  font-family:'DestinySubtext'
+}
+
+html {
+  background-color: #333333;
+
+}
+
+
+h1 {
+    text-align: center;
+    font-family: "DestinyText";
+    font-weight: normal;
+
+}
+
+
+
+
+h2, li, .discord_image, .middle {
+    text-align:center;
+
+}
+
+/* fonts:  */
